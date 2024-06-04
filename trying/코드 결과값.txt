@@ -1,0 +1,290 @@
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.004628 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13892
+[LightGBM] [Info] Number of data points in the train set: 27054, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988962
+[LightGBM] [Info] Start training from score -0.340895
+[LightGBM] [Info] Start training from score -1.883682
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.004058 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13888
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988729
+[LightGBM] [Info] Start training from score -0.340932
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.003704 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13883
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988729
+[LightGBM] [Info] Start training from score -0.340932
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.003572 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13895
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988729
+[LightGBM] [Info] Start training from score -0.340932
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.003758 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13893
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988729
+[LightGBM] [Info] Start training from score -0.340932
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.004141 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13885
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988729
+[LightGBM] [Info] Start training from score -0.340932
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.005219 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13886
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988729
+[LightGBM] [Info] Start training from score -0.340932
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.003795 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13894
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988999
+[LightGBM] [Info] Start training from score -0.340880
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.003801 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13894
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988999
+[LightGBM] [Info] Start training from score -0.340880
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.005404 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13889
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988999
+[LightGBM] [Info] Start training from score -0.340880
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.004113 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13898
+[LightGBM] [Info] Number of data points in the train set: 27054, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988962
+[LightGBM] [Info] Start training from score -0.340895
+[LightGBM] [Info] Start training from score -1.883682
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.004112 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13891
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988729
+[LightGBM] [Info] Start training from score -0.340932
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.004664 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13881
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988729
+[LightGBM] [Info] Start training from score -0.340932
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.004007 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13881
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988729
+[LightGBM] [Info] Start training from score -0.340932
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.004705 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13890
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988729
+[LightGBM] [Info] Start training from score -0.340932
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.005499 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13890
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988729
+[LightGBM] [Info] Start training from score -0.340932
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.004975 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13886
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988729
+[LightGBM] [Info] Start training from score -0.340932
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.005219 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13883
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988999
+[LightGBM] [Info] Start training from score -0.340880
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.004160 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13890
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988999
+[LightGBM] [Info] Start training from score -0.340880
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.004186 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13892
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988999
+[LightGBM] [Info] Start training from score -0.340880
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.004838 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13881
+[LightGBM] [Info] Number of data points in the train set: 27054, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988962
+[LightGBM] [Info] Start training from score -0.340895
+[LightGBM] [Info] Start training from score -1.883682
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.004206 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13885
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988729
+[LightGBM] [Info] Start training from score -0.340932
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.005620 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13883
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988729
+[LightGBM] [Info] Start training from score -0.340932
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.005379 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13890
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988729
+[LightGBM] [Info] Start training from score -0.340932
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.005214 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13891
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988729
+[LightGBM] [Info] Start training from score -0.340932
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.004331 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13885
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988729
+[LightGBM] [Info] Start training from score -0.340932
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.004185 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13891
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988729
+[LightGBM] [Info] Start training from score -0.340932
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.004105 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13891
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988999
+[LightGBM] [Info] Start training from score -0.340880
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.004475 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13891
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988999
+[LightGBM] [Info] Start training from score -0.340880
+[LightGBM] [Info] Start training from score -1.883719
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.005423 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13889
+[LightGBM] [Info] Number of data points in the train set: 27055, number of used features: 69
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Start training from score -1.988999
+[LightGBM] [Info] Start training from score -0.340880
+[LightGBM] [Info] Start training from score -1.883719
+Average Accuracy: 81.28% ± 0.48%
+Average Precision: 81.89% ± 0.66%
+Average Recall: 81.28% ± 0.48%
+Average F1 Score: 78.89% ± 0.62%
+[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.005595 seconds.
+You can set force_col_wise=true to remove the overhead.
+[LightGBM] [Info] Total Bins 13896
+[LightGBM] [Info] Number of data points in the train set: 30061, number of used features: 69
+[LightGBM] [Info] Start training from score -1.988833
+[LightGBM] [Info] Start training from score -0.340913
+[LightGBM] [Info] Start training from score -1.883715
+Final Model Accuracy: 84.18%
+Final Model Precision: 85.18%
+Final Model Recall: 84.18%
+Final Model F1 Score: 82.44%
+Confusion Matrix:
+[[ 1709  2382    23]
+[  123 20939   315]
+[   18  1894  2658]]
