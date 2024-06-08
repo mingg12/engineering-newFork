@@ -4,7 +4,7 @@ This is a project to predict glucose by learning data collected by wearable devi
 With collected data from Accelerometer, Blood volume pulse, Electrodermal activity, Temperature, Interbeat interval, Heart rate, Food Log, interstitial glucose concentration, feature engineering is performed to utilize meaningful features for learning.
 
 ## Team members
-- 이경주
+- 이경주 (Team Leader)
 - 서민경
 - 김지수
 - 남광규
